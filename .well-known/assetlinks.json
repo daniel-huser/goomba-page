@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ch.goomba.app.alpha",
+        "sha256_cert_fingerprints":
+          ["DB:4D:EF:5A:FC:EA:74:2D:32:92:F2:F0:7A:EF:9D:0D:A3:7E:0A:25:3F:73:77:FA:F5:70:B1:93:06:D8:54:2A"]
+      }
+    }
+  ]
